@@ -1,0 +1,72 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.name{
+ text-align: center; 
+ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+ color:black;
+ border: 2px solid red;
+ background-color: blue;
+}
+.name:hover{
+  background: rebeccapurple;
+}
+.image{
+  
+  width: 648px;
+  height: 740px;
+ margin-top: 10px;
+ margin-left: 350px;
+  position: absolute;
+  
+}
+.calc{
+  
+  width: 320px;
+  position: absolute;
+ margin-top: 144px;
+ margin-left: 514px;
+  position: absolute;
+
+}
+
+#answer{
+ background-color: greenyellow;
+ padding: 10px;
+ font-size: 40px;
+width: 320px;
+height: 60px;
+text-align: right;
+border: 3px solid black;
+}
+.button{
+background: grey;
+  border: 1px solid white;
+  border-radius: 4px;
+  color: white;
+  width: 106.6px;
+  height: 80px;
+  font-size: 30px;
+
+}
+.button:hover{
+background: white;
+color: black;
+}
+.button1:hover{
+  background: white;
+  color: black;
+  }
+.button1{
+  background: grey;
+  border: 1px solid white;
+  color: white;
+  border-radius: 4px;
+  width: 159.9px;
+  height: 80px;
+  font-size: 30px;
+}
